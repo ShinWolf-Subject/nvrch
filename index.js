@@ -360,8 +360,9 @@ function validateUrl(url) {
  */
 function getPackageInfo() {
   return {
-    name: 'nvrch',
-    version: '3.0.0',
+    name: 'nvch-reactor',
+    version: '2.0.7',
+    creator: 'NineTwelve',
     description: 'Package untuk mengirim reaksi ke WhatsApp Channel dengan auth system',
     apiUrl: API_URL,
     requiresApiKey: true,
